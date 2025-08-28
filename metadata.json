@@ -1,0 +1,7 @@
+{
+  "name": "Resistor decoder",
+  "description": "An application that uses AI to analyze an image of a resistor, identify its color bands, and calculate its resistance value and tolerance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
